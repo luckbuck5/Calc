@@ -7,7 +7,7 @@ int main()
 cout << "1 - add" << endl;
 cout << "2 - subtract" << endl;
 cout << "3 - multiply" << endl;
-cout << "4 - divide" << endl
+cout << "4 - divide" << endl;
 int res, num1, num2, ans;
 cin >> res;
 while (res>3 or res<1){
