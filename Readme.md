@@ -1,0 +1,1 @@
+This is my C++ calculator with the basic 4 functions (addition, subtraction, multiplication, division). To run the program, enter the code into a C++ compiler, such as cpp.sh/.
