@@ -10,7 +10,7 @@ cout << "3 - multiply" << endl;
 cout << "4 - divide" << endl;
 int res, num1, num2, ans;
 cin >> res;
-while (res>3 or res<1){
+while (res>4 or res<1){
     cout << "nope"<<endl;
     cin >> res;
 }
